@@ -1,6 +1,11 @@
 # Portfolio Patryk Marszelewski - PatrykMarshall
 The portfolio is under development
 
+## Technologies
+HTML, CSS<br>
+JavaScript: Node.js<br>
+Database: MySQL, MongoDB<br>
+
 ## Java
   - [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)
   description: ```Android APP for 4F empleyees. ``` <br>

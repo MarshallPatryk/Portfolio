@@ -48,5 +48,5 @@ HTML, CSS, Javascript, Python, Java, PHP, C++, C# | Node.js | MySQL, MongoDB
   [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)
 
 ## PHP
-Opracowanie algorytmów obliczeń matematycznych w PHP.
-Skrypt generujący podzbiory w PHP.
+- [Algorytm generowania podzbiorów i permutacji](https://github.com/MarshallPatryk/Algorytm-generowania-podzbiorow-i-permutacji)
+- [Wyznaczniki i układy równań](https://github.com/MarshallPatryk/Wyznaczniki-i-uklady-rownan-Macierze)

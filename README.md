@@ -2,13 +2,9 @@
 The portfolio is under development
 
 ## Technologies
-HTML, <br>
-CSS, <br>
-JavaScript: <br>
-  - Node.js <br>
-Database: <br>
-  - MySQL <br>
-  - MongoDB <br>
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 ## Java
   - [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)

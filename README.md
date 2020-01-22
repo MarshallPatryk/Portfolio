@@ -18,8 +18,8 @@ Date | Description
 Date | Name | Theory | Practice 
 --- | --- | --- | --- 
 05/2018 | CCNA Routing and Switching: Introduction to Networks | - | -
-03/2017 | Kwalifikacja E14 Tworzenie aplikacji internetowych i baz danych oraz administrowanie bazami | 98% | 100%
-08/2016 | Kwalifikacja E13 Projektowanie lokalnych sieci komputerowych i administrowanie sieciami | 95% | 100%
+03/2017 | Kwalifikacja E14 Tworzenie aplikacji internetowych i baz danych oraz administrowanie bazami | 95% | 100%
+08/2016 | Kwalifikacja E13 Projektowanie lokalnych sieci komputerowych i administrowanie sieciami | 93% | 100%
 08/2015 | Kwalifikacja E12 Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych | 75% | 100%
 
 

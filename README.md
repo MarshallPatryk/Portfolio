@@ -4,7 +4,6 @@ The portfolio is under development
 # About Me
 <p align="center">
   <img src="http://mrnygus.webd.pl/avatar.jpg" width="350" title="hover text">
-  <img src="http://mrnygus.webd.pl/avatar.jpg" width="350" alt="accessibility text">
 </p>
 
 Lanuguages | Education

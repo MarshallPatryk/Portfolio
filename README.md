@@ -6,6 +6,12 @@ Lanuguages | Education
 English: B2 | 2013-2017 Zespół Szkół Rolniczych im. Wincentego Witosa w Ostródzie Technic Informatic
 German: A1 | 2017 - now: Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
 
+## Work
+
+Date | Description
+03/2016 – 04/2016 | Praktykant w firmie NEO Komputer w Ostródzie. Serwisant: montaż, diagnoza i naprawa sprzętu komputerowego.
+05/2015 – 06/2015 | Praktykant w firmie Infonetmedia w Portsmouth w Anglii. IT, Hardware, Software, Programming etc.
+
 ## Technologies
 Basic | JavaScript | Databases
  --- | --- | ---

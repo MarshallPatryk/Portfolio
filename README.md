@@ -5,10 +5,11 @@ The portfolio is under development
 HTML, <br>
 CSS, <br>
 JavaScript: <br>
-  -Node.js
+  - Node.js
+<br>
 Database: <br>
-  -MySQL
-  -MongoDB
+  - MySQL
+  - MongoDB
 
 ## Java
   - [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)

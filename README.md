@@ -15,7 +15,7 @@ Date | Description
 
 ## COURSES, TRAININGS AND CERTIFICATES
 
-Date | Description | Theory | Practic 
+Date | Name | Theory | Practice 
 --- | --- | --- | --- 
 05/2018 | CCNA Routing and Switching: Introduction to Networks | - | -
 03/2017 | Kwalifikacja E14 Tworzenie aplikacji internetowych i baz danych oraz administrowanie bazami | 98% | 100%

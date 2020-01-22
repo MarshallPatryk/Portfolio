@@ -2,7 +2,7 @@
 The portfolio is under development
 
 Lanuguages | Education | Now
---- | --- | --- | ---
+--- | --- | --- 
 - English: B2 | to do | Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
 
 ## Technologies

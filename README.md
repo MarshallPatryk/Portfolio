@@ -1,10 +1,10 @@
 # Portfolio Patryk Marszelewski - PatrykMarshall
 The portfolio is under development
 
-Lanuguages | Education | Now
---- | --- | --- 
+Lanuguages | Education
+--- | --- 
 English: B2 | 2013-2017 Zespół Szkół Rolniczych im. Wincentego Witosa w Ostródzie Technic Informatic
-| 2017 - now: Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
+German: A1 | 2017 - now: Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
 
 ## Technologies
 Technology | Basic | JavaScript | Databases

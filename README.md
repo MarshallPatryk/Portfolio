@@ -6,10 +6,9 @@ HTML, <br>
 CSS, <br>
 JavaScript: <br>
   - Node.js
-<br>
 Database: <br>
-  - MySQL
-  - MongoDB
+  - MySQL <br>
+  - MongoDB <br>
 
 ## Java
   - [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)

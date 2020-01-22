@@ -3,7 +3,9 @@ The portfolio is under development
 
 Lanuguages | Education | Now
 --- | --- | --- 
-English: B2 | to do | Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
+English: B2 | 2013-2017 Zespół Szkół Rolniczych im. Wincentego 
+Witosa w Ostródzie Technic Informatic
+| 2017 - now: Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
 
 ## Technologies
 Technology | Basic | JavaScript | Databases

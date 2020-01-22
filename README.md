@@ -6,18 +6,29 @@ Lanuguages | Education
 English: B2 | 2013-2017 Zespół Szkół Rolniczych im. Wincentego Witosa w Ostródzie Technic Informatic
 German: A1 | 2017 - now: Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
 
-## Work
+## Experience
 
 Date | Description
 --- | --- 
 03/2016 – 04/2016 | Praktykant w firmie NEO Komputer w Ostródzie. Serwisant: montaż, diagnoza i naprawa sprzętu komputerowego.
 05/2015 – 06/2015 | Praktykant w firmie Infonetmedia w Portsmouth w Anglii. IT, Hardware, Software, Programming etc.
 
+## COURSES, TRAININGS AND CERTIFICATES
+
+Date | Description | Theory | Practic 
+--- | --- | --- | --- 
+05/2018 | CCNA Routing and Switching: Introduction to Networks | - | -
+03/2017 | Kwalifikacja E14 Tworzenie aplikacji internetowych i baz danych oraz administrowanie bazami | 98% | 100%
+08/2016 | Kwalifikacja E13 Projektowanie lokalnych sieci komputerowych i administrowanie sieciami | 95% | 100%
+08/2015 | Kwalifikacja E12 Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych | 75% | 100%
+
+
 ## Technologies
 Basic | JavaScript | Databases
  --- | --- | ---
 HTML, CSS, Javascript, Python, Java, PHP, C++, C# | Node.js | MySQL, MongoDB
 
+# Projects
 ## Java
   - [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)
   description: ```Android APP for 4F empleyees. ``` <br>

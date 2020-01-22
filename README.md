@@ -5,7 +5,7 @@ The portfolio is under development
 HTML, <br>
 CSS, <br>
 JavaScript: <br>
-  - Node.js
+  - Node.js <br>
 Database: <br>
   - MySQL <br>
   - MongoDB <br>

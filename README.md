@@ -7,9 +7,9 @@ English: B2 | 2013-2017 Zespół Szkół Rolniczych im. Wincentego Witosa w Ostr
 German: A1 | 2017 - now: Study Informatic, speciality: Programming in "Wyższa Szkoła Bankowa" in Gdańsku
 
 ## Technologies
-Technology | Basic | JavaScript | Databases
---- | --- | --- | ---
-More | HTML, CSS, Javascript, Python, Java, PHP | Node.js | MySQL, MongoDB
+Basic | JavaScript | Databases
+ --- | --- | ---
+HTML, CSS, Javascript, Python, Java, PHP, C++, C# | Node.js | MySQL, MongoDB
 
 ## Java
   - [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)

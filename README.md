@@ -3,7 +3,7 @@ The portfolio is under development
 
 # About Me
 <p align="center">
-  <img src="http://mrnygus.webd.pl/avatar.jpg" height="300" title="hover text">
+  <img src="http://mrnygus.webd.pl/avatar.jpg" height="250" title="hover text">
 </p>
 
 Lanuguages | Education

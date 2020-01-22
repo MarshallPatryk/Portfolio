@@ -2,6 +2,8 @@
 The portfolio is under development
 
 # About Me
+![avatar](http://mrnygus.webd.pl/avatar.jpg)
+
 Lanuguages | Education
 --- | --- 
 English: B2 | 2013-2017 Zespół Szkół Rolniczych im. Wincentego Witosa w Ostródzie Technic Informatic
@@ -42,3 +44,7 @@ HTML, CSS, Javascript, Python, Java, PHP, C++, C# | Node.js | MySQL, MongoDB
   description: ```Node.js APP for android4Fapk to manage on data``` <br>
   used by:
   [android4Fapk](https://github.com/MarshallPatryk/android4Fapk)
+
+## PHP
+Opracowanie algorytmów obliczeń matematycznych w PHP.
+Skrypt generujący podzbiory w PHP.
